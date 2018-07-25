@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - SwifterJSON (0.9.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - SwifterJSON (from `https://github.com/rokgregoric/SwifterJSON.git`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+
+EXTERNAL SOURCES:
+  SwifterJSON:
+    :git: https://github.com/rokgregoric/SwifterJSON.git
+
+CHECKOUT OPTIONS:
+  SwifterJSON:
+    :commit: 37f40974ca2521a404304a7df7ce9f3cbd4aacab
+    :git: https://github.com/rokgregoric/SwifterJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  SwifterJSON: 8b07e5e4e5de296da0bede59c31d716bc68314df
+
+PODFILE CHECKSUM: c39e34207923dd564c35ac88033044827b456adf
+
+COCOAPODS: 1.5.3
